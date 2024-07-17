@@ -1,0 +1,40 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/defines.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/ControlFSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlFSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/ControlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/DECODE_EXE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DECODE_EXE
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/DFF32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DFF32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/DataRAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataRAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/EXE_MEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXE_MEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/EXT16T32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXT16T32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/EXT5T32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXT5T32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/IR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IR
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/InstructionROM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionROM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/MEM_WB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEM_WB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/MUX2X32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX2X32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/MUX4X32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX4X32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/MUX4X5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX4X5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/MulticycleCPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MulticycleCPU
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'target' is not allowed [D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/MulticycleCPU.v:36]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sources_1/imports/new/RegisterFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CodeProjects/vivado project/Multicycle_CPU/Multicycle_CPU.srcs/sim_1/new/CPU_sim_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CPU_sim_1
